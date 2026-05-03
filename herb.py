@@ -104,7 +104,7 @@ with st.sidebar:
         except:
             st.error("❌ Cannot reach API.\nIs Colab Cell 11 running?")
     st.markdown("---")
-    st.caption("Built with EfficientNetB3\nPowered by Google Colab + Gemini AI")
+    st.caption("Built with EfficientNetB3\nPowered by Google Colab + Gemini AI+A WBL project by Mahima dhamala")
 
 # HERO
 st.markdown("""
