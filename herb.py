@@ -104,7 +104,7 @@ with st.sidebar:
         except:
             st.error("❌ Cannot reach API.\nIs Colab Cell 11 running?")
     st.markdown("---")
-    st.caption("Built with EfficientNetB3\nPowered by Google Colab + Gemini AI+A WBL project by Mahima dhamala")
+    st.caption("Built with EfficientNetB3\nPowered by Google Colab +A WBL project by Mahima dhamala")
 
 # HERO
 st.markdown("""
@@ -224,6 +224,6 @@ st.markdown("---")
 st.markdown("""
 <div style="text-align:center; color:#aaa; font-size:0.85rem; padding:1rem 0;">
     🌿 Herbal Plant Classifier &nbsp;·&nbsp; EfficientNetB3 &nbsp;·&nbsp;
-    30 Medicinal Plants &nbsp;·&nbsp; Powered by Google Colab + Gemini AI
+    30 Medicinal Plants &nbsp;·&nbsp; Powered by Google Colab 
 </div>
 """, unsafe_allow_html=True)
