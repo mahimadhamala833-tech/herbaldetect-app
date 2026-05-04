@@ -92,7 +92,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("**Model:** EfficientNetB3")
     st.markdown("**Plants:** 30 classes")
-    st.markdown("**AI Info:** Google Gemini")
+    st.markdown("**platform:** Google colab")
     st.markdown("---")
     if st.button("🔗 Check API Connection", use_container_width=True):
         try:
